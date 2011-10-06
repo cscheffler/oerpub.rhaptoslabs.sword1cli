@@ -29,7 +29,7 @@ You should have received a copy of the GNU Lesser General Public
 License along with Sword1Cnx.  If not, see <http://www.gnu.org/licenses/>.
 """
 from __future__ import division
-import sword1cnx
+import oerpub.rhaptoslabs import sword1cnx
 import os
 
 PARAMS = {
